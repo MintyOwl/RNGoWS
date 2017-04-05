@@ -13,3 +13,4 @@ Now copy and edit relevant parts in android/app/..../*.java files
 
 ## Follow instructions at [this repo](https://github.com/MintyOwl/goWS/blob/master/README.md)
 
+![GoWS](https://github.com/MintyOwl/RNGoWS/blob/master/GoWS.gif)
